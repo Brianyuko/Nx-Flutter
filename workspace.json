@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "flutter-auth": "apps/flutter-auth",
+    "custom-button": "libs/custom-button"
+  }
 }
